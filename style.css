@@ -131,7 +131,7 @@ body{
 
 @media (max-width: 420px){
     .container{
-        width: 90%;
+        width: 89%;
     }
    .form-image{
         display: none;
