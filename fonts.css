@@ -10,3 +10,7 @@
     font-family: ailerons;
     src: url(/fuentes/ailerons.otf);
 }
+@font-face {
+    font-family: l-bold;
+    src: url(/fuentes/Champagne\ &\ Limousines\ Bold.ttf);
+}
