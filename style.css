@@ -72,7 +72,6 @@ body{
 .form-date input{
     width: 90%;
     height: 50px;
-    font-family: l-bold;
 }
 .form-date input:nth-child(1){
     width: 90%;
