@@ -1,16 +1,16 @@
 @font-face {
     font-family: limousine;
-    src: url(/fuentes/Champagne\ _\ Limousines\ Italic.ttf);
+    src: url(fuentes/Champagne\ _\ Limousines\ Italic.ttf);
 }
 @font-face {
     font-family: jelle;
-    src: url(/fuentes/Jellee-Roman.otf);
+    src: url(fuentes/Jellee-Roman.otf);
 }
 @font-face {
     font-family: ailerons;
-    src: url(/fuentes/ailerons.otf);
+    src: url(fuentes/ailerons.otf);
 }
 @font-face {
     font-family: champagne;
-    src: url(/fuentes/Champagne\ &\ Limousines\ Bold.ttf);
+    src: url(fuentes/Champagne\ &\ Limousines\ Bold.ttf);
 }
